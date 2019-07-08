@@ -19,7 +19,7 @@ Clone the repo.
 Run the main file in a browser:
 
 	```
-	src/follow.html
+	src/follow.js
 	```
 
 ## Deployment
